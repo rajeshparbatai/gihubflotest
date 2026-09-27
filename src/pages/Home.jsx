@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <section>
-      <h1>Welcome to MyApp 🚀</h1>
+      <h1>Welcome to MyApp rajesh 🚀</h1>
       <p>
         Ye ek simple React static website hai. Iska code GitHub pe push hote hi
         GitHub Actions automatically Docker image build karke deploy kar dega.
